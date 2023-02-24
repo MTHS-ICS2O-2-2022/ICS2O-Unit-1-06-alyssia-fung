@@ -2,6 +2,7 @@
 * Created on: feb 2023
 * This file contains the CSS for index.html
 */
+
 .mdl-layout__content {
   padding-left: 16pt;
     padding-right: 16pt;
@@ -14,11 +15,11 @@
     background: #00000020;
     opacity: 0.001;
   }
-  
+
   body {
     background-color: rgb(100, 237, 219);
   }
-  
+
   p {
     color: rgba(255, 255, 255, 0.884);
     font-family: Helvetica, Arial, sans-serif;
